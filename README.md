@@ -31,6 +31,30 @@ These documents are independent learning materials prepared by the author. They 
 
 ISC2 and its certification names are trademarks of their respective owners. This repository is an independent study resource and is not affiliated with or sponsored by ISC2.
 
+## Professional Opportunities & Career Referrals
+
+I am open to exploring senior-level opportunities across **Cybersecurity, AI Security, Cloud Security and Product Security**.
+
+With **30+ years of enterprise IT and cybersecurity experience**, I bring expertise in security architecture, cloud and infrastructure security, cybersecurity operations, AI security, risk management and technology transformation.
+
+**Roles of interest:**
+- Senior / Principal Security Architect
+- AI Security Architect / AI Security Consultant
+- Cloud Security Architect
+- Product Security Architect
+- Cybersecurity Architect / Security Engineering Lead
+- Security Advisory and Fractional CISO / CTO opportunities
+
+**Location and mobility:**  
+Open to remote, hybrid and onsite opportunities. Willing to consider international relocation, including the Middle East, Europe, Singapore and other locations, subject to applicable work authorization and visa requirements.
+
+**Referrals and introductions:**  
+If you know of relevant opportunities or can connect me with recruiters, hiring managers or organizations seeking experienced security professionals, I would appreciate your referral or introduction.
+
+**Let's connect:** [LinkedIn – Gopi Narayanaswamy](https://www.linkedin.com/in/gopi-narayanaswamy/)
+
+Thank you for your support.
+
 ## Author
 
 **Gopi Narayanaswamy**  
