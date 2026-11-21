@@ -35,7 +35,7 @@ ISC2 and its certification names are trademarks of their respective owners. This
 
 I am open to exploring senior-level opportunities across **Cybersecurity, AI Security, Cloud Security and Product Security**.
 
-With **30+ years of enterprise IT and cybersecurity experience**, I bring expertise in security architecture, cloud and infrastructure security, cybersecurity operations, AI security, risk management and technology transformation.
+With **20+ years of enterprise IT and cybersecurity experience**, I bring expertise in security architecture, cloud and infrastructure security, cybersecurity operations, AI security, risk management and technology transformation.
 
 **Roles of interest:**
 - Senior / Principal Security Architect
