@@ -10,12 +10,12 @@ A six-domain collection of self-authored study guides and revision notes designe
 
 | Domain | Subject | PDF |
 |---|---|---|
-| 1 | AI Concepts and Security Fundamentals | [Download study notes](Domain-1-AI-Concepts-and-Security-Fundamentals.pdf) |
-| 2 | AI Governance, Ethics, Risk and Compliance | [Download study notes](Domain-2-AI-Governance-Ethics-Risk-and-Compliance.pdf) |
-| 3 | AI Data Management, Privacy and Model Security | [Download study guide](Domain-3-AI-Data-Management-Privacy-and-Model-Security.pdf) |
-| 4 | Secure AI Architecture, Engineering and Identity and Access Management | [Download study guide](Domain-4-Secure-AI-Architecture-Engineering-and-IAM.pdf) |
-| 5 | Secure AI Operations and Incident Response | [Download study notes](Domain-5-Secure-AI-Operations-and-Incident-Response.pdf) |
-| 6 | AI Threats, Testing and Lifecycle Management | [Download study notes](Domain-6-AI-Threats-Testing-and-Lifecycle-Management.pdf) |
+| 1 | AI Concepts and Security Fundamentals | [Download study notes](ISC2_Domain_1_Revised_Study_Notes.pdf) |
+| 2 | AI Governance, Ethics, Risk and Compliance | [Download study notes](ISC2_Domain_2_Revised_Study_Notes.pdf) |
+| 3 | AI Data Management, Privacy and Model Security | [Download study guide](ISC2_AI_Security_Domain_3_Study_Guide.pdf) |
+| 4 | Secure AI Architecture, Engineering and Identity and Access Management | [Download study guide](ISC2_AI_Security_Domain_4_Study_Guide.pdf) |
+| 5 | Secure AI Operations and Incident Response | [Download study notes](ISC2_AI_Security_Domain_5_Study_Notes.pdf) |
+| 6 | AI Threats, Testing and Lifecycle Management | [Download study notes](ISC2_AI_Security_Domain_6_Study_Notes%20.pdf) |
 
 ## How to use this repository
 
